@@ -1,0 +1,9 @@
+collection_name: skill
+persist_directory: chroma_db_skill
+k: 2
+data_path: enterprise-qa-data\knowledge
+md5_hex_store: md5.text
+allow_knowledge_file_type: ["md"]
+chunk_size: 100
+chunk_overlap: 10
+separators: ["\n\n", "\n", ".", "。", "?", "!", "？", "！", " ", ""]

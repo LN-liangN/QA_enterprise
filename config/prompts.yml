@@ -1,0 +1,4 @@
+
+system_prompt_path: prompts/main_prompt.txt
+SQL_prompts_path: prompts/SQL_prompt.txt
+rag_prompts_path: prompts/rag_prompt.txt
